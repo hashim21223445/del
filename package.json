@@ -56,7 +56,7 @@
 		"is-path-inside": "^4.0.0",
 		"p-map": "^5.5.0",
 		"rimraf": "^3.0.2",
-		"slash": "^4.0.0"
+		"slash": "^5.1.0"
 	},
 	"devDependencies": {
 		"ava": "^4.3.1",
